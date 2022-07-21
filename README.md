@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/richmond-kwabena-obuah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/richmond-kwabena-obuah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/richmondkwabenaobuah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/richmondkwabenaobuah" height="30" width="40" /></a>
 <a href="https://hashnode.com/https://hashnode.com/@cptyoshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@cptyoshi" height="30" width="40" /></a>
 </p>
 
